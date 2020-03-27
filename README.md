@@ -5,7 +5,7 @@
 ### Hemagglutinin (HA)
 
 - Mutational tolerance of the H1 HA from A/WSN/1933 as measured by [Doud and Bloom (2016)](https://www.ncbi.nlm.nih.gov/pubmed/27271655).
-  [See here]() for the interaction `dms-view` visualization.
+  [See here](https://dms-view.github.io/?markdown-url=https%3A%2F%2Fraw.githubusercontent.com%2Fdms-view%2Finfluenza%2Fmaster%2Fdata%2FHA%2FDoud2016%2FDoud2016.md&data-url=https%3A%2F%2Fraw.githubusercontent.com%2Fdms-view%2Finfluenza%2Fmaster%2Fdata%2FHA%2FDoud2016%2FDoud2016.csv&condition=rescaled_measurements&site_metric=site_entropy_bits&mutation_metric=mut_preference&selected_sites=Y+98%2CG+134%2CV+135%2CT+136%2CV+137%2CS+138%2CS+145%2CW+153%2CT+155%2CH+183%2CP+185%2CS+186%2CE+190%2CL+194%2CD+225%2CQ+226%2CG+228&pdb-url=https%3A%2F%2Fraw.githubusercontent.com%2Fdms-view%2Finfluenza%2Fmaster%2Fdata%2FHA%2FDoud2016%2F1rvx_1trimer.pdb) for a interactive `dms-view` visualization that shows the mutational tolerance focusing on sites within 5 angstroms of the receptor.
   The raw data are [here](data/HA/Doud2016).
 
 
