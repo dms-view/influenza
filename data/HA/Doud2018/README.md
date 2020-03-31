@@ -10,4 +10,6 @@ The following files are supplemental data files from [Doud, Lee, and Bloom (2016
   - antibody_*_median_avgsite.csv (example: [antibody_C179_median_avgsite.csv](antibody_C179_median_avgsite.csv)): excess fraction surviving summarized at each site.
   - [numbering_map.csv](numbering_map.csv)): mapping from sequential numbering of WSN HA to the H3 numbering scheme used in the PDB file.
 
+Specifically, the antibody data was taken from the `results/fracsurviveaboveavg` directory of `analysis_code/` 
+
 The Jupyter notebook [build_data.ipynb](build_data.ipynb) reads in the above supplemental data files and generates the data file for `dms-view`, [Doud2018.csv](Doud2018.csv).
