@@ -2,7 +2,7 @@
 
 The paper link is [Doud, Lee, and Bloom (2016)](https://research.fhcrc.org/content/dam/stripe/bloom/labfiles/publications/Doud2018.pdf).
 
-[1rvx.pdb](1rvx.pdb) is the crystal structure of the closely related A/PR/8/1934 (H1N1) HA.
+[1rvx_1trimer.pdb](1rvx_1trimer.pdb) is the crystal structure of the closely related A/PR/8/1934 (H1N1) HA with only one of the two trimers in the asymmetric unit retained.
 
 The following files are supplemental data files from [Doud, Lee, and Bloom (2016)](https://www.nature.com/articles/s41467-018-03665-3#Sec20):
 
