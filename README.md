@@ -10,6 +10,9 @@
 - Mutational Antigenic Profiling of A/WSN/1933 H1 HA from monoclonal antibodies measured by [Doud, Lee, and Bloom, 2018](https://research.fhcrc.org/content/dam/stripe/bloom/labfiles/publications/Doud2018.pdf).
 [See here](https://dms-view.github.io/?markdown-url=https%3A%2F%2Fraw.githubusercontent.com%2Fdms-view%2Finfluenza%2Fmaster%2Fdata%2FHA%2FDoud2018%2FDoud2018.md&pdb-url=https%3A%2F%2Fraw.githubusercontent.com%2Fdms-view%2Finfluenza%2Fmaster%2Fdata%2FHA%2FDoud2018%2F1rvx_1trimer.pdb&data-url=https%3A%2F%2Fraw.githubusercontent.com%2Fdms-view%2Finfluenza%2Fmaster%2Fdata%2FHA%2FDoud2018%2FDoud2018.csv&condition=S139&site_metric=site_avg+excess+frac+survive&mutation_metric=mut_excess+frac+survive&selected_sites=156%2C158%2C193) for an interactive dms-view visualization focusing on the antibody S139.
 The raw data are [here](data/HA/Doud2018).
+- Mutational Antigenic Profiling of Perth09 H3 HA from human and ferret sera measured by [Lee _et al._, 2019](https://elifesciences.org/articles/49324).
+[See here](https://dms-view.github.io/?markdown-url=https%3A%2F%2Fraw.githubusercontent.com%2Fdms-view%2Finfluenza%2Fmaster%2Fdata%2FHA%2FLee2019%2FLee2019.md&pdb-url=https%3A%2F%2Fraw.githubusercontent.com%2Fdms-view%2Finfluenza%2Fmaster%2Fdata%2FHA%2FLee2019%2F4O5N_trimer.pdb&data-url=https%3A%2F%2Fraw.githubusercontent.com%2Fdms-view%2Finfluenza%2Fmaster%2Fdata%2FHA%2FLee2019%2FLee2019.csv&condition=2010-age-21&site_metric=site_positive+diffsel&mutation_metric=mut_positive+mutdiffsel&selected_sites=144%2C157%2C159%2C160%2C189%2C193%2C222%2C224) for an interactive dms-view visualization focusing on sites strongly selected by different human sera.
+The raw data are [here](data/HA/Lee2019).
 
 
 ## Adding data sets
